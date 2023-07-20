@@ -6,7 +6,7 @@
 
 I am a student at the Daffodil international university department of CSE. I would like to have my best work experience shown publicly. I work in Machine Learning and Deep learning sectors, Specially I love to learn something new and research.
 
-Skills: Python/Jupyter notebook/ML Algorithms 
+### Skills: Python/Jupyter Notebook/ML Algorithms 
 
 - 🔭 I’m currently working on Machine Learning and Deep learning  
 - 🌱 I’m currently learning Machine Learning and Deep learning sector 
