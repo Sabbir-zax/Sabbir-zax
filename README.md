@@ -3,6 +3,7 @@
 ### Hi there 👋, I am sabbir Ahmed
 #### I work on Machine Learning and Deep learning sector
 
+
 I am a student at the Daffodil international university department of CSE. I would like to have my best work experience shown publicly. I work in Machine Learning and Deep learning sectors, Specially I love to learn something new and research.
 
 Skills: Python/Jupyter notebook/ML Algorithms 
@@ -22,10 +23,7 @@ Skills: Python/Jupyter notebook/ML Algorithms
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabbir-zax&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sabbir-zax)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Sabbir-zax)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sabbir-zax)  
-
 
